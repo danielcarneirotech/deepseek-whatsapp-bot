@@ -13,7 +13,7 @@ This project is a WhatsApp bot that uses the `whatsapp-web.js` library to intera
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/whatsapp-deepseek-bot.git
+   git clone https://github.com/danielcarneirotech/whatsapp-deepseek-bot.git
    cd whatsapp-deepseek-bot
    ```
 
