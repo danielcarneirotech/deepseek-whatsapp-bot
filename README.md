@@ -1,4 +1,4 @@
-# whatsapp-deepseek-bot
+# deepseek-whatsapp-bot
 
 This project is a WhatsApp bot that uses the `whatsapp-web.js` library to interact with the WhatsApp Web client and processes messages using a language model via an API. The bot maintains conversation history to provide context-aware responses.
 
