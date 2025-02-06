@@ -5,7 +5,7 @@ This project is a WhatsApp bot that uses the `whatsapp-web.js` library to intera
 ## Prerequisites
 
 - Node.js installed on your machine
-- A WhatsApp account
+- 2 WhatsApp accounts (1 to connect on the QR Code, this will be the AI bot, and another to send messages to the connected account);
 - LM Studio API running locally on `http://localhost:1234`
 
 ## Installation
